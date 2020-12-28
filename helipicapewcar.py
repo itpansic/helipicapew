@@ -568,7 +568,7 @@ class HeliPicaPewCar(object):
         ac.glEnd()
 
 
-        # 再画车框
+        # 再画车框 
         ac.glBegin(3) # 3 : Draw quads.
         #ac.log('helipicapew::drawYourself car paint pt list:-----------')
         for i, pt in enumerate(self.guiPtList):
