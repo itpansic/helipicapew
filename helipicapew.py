@@ -58,7 +58,7 @@ dbgLabel = 0
 texture_radar = -1
 texture_indicator_left = -1
 texture_indicator_right = -1
-version = "0.5"
+version = "0.6"
 
 sharedMemoryLoaded = False
 # load sim_info: code by ferito
