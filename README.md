@@ -22,7 +22,7 @@
 
 #### 使用方法
 将`helipicapew`插件压缩包拖到`Content Manager`进行安装，在`Content Manager` -> `SETTINGS` -> `ASSETTO CORSA` -> `APP`中启用Helipicapew
-<img src="./README/pic1.png" style="display:block;">
+<img src="./README/pic2.png" style="display:block;">
 
 > 注：本APP可和`helicorsa`共存，但为了更好的性能，请只开必要的插件
 
